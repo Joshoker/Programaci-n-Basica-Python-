@@ -8,6 +8,4 @@ def sumGeometric(a, r, n):
    #regresa el valor de s 
    return s
 
-if __name__ == "__main__":
-    print ("Ejecutar funcion con valores 2,3,4")
-    print (sumGeometric(2,3,4))
+print (sumGeometric (3,3,4))
